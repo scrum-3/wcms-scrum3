@@ -1,1 +1,2 @@
-# wcms-scrum3
+# cmsimfly
+CMSimfly is a simple CMS in Flask
